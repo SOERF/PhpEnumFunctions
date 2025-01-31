@@ -1,7 +1,11 @@
 <?php
 
+namespace Streamedup\PhpEnumFunctions;
+
+use Error;
 use Illuminate\Support\Collection;
 use Illuminate\Support\Enumerable;
+use UnitEnum;
 
 /**
  * @property string name
