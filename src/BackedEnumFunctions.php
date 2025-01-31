@@ -5,7 +5,6 @@ namespace Streamedup\PhpEnumFunctions;
 use BackedEnum;
 
 /**
- * @property string value
  * @method static from()
  * @method static tryFrom()
  */

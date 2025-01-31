@@ -8,7 +8,6 @@ use Illuminate\Support\Enumerable;
 use UnitEnum;
 
 /**
- * @property string name
  * @method static cases()
  */
 trait EnumFunctions
