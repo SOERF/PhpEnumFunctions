@@ -1,0 +1,28 @@
+{
+    "name": "streamedup/php-enum-functions",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Streamedup\\PhpEnumFunctions\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Stefan Käsdorf",
+            "email": "s.kaesdorf@streamed-up.com"
+        }
+    ],
+    "require": {
+        "php": "^8.3",
+        "illuminate/support": "^11.41"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "config": {
+        "sort-packages": true,
+        "preferred-install": "dist",
+        "optimize-autoloader": true
+    },
+    "require-dev": {
+    }
+}
