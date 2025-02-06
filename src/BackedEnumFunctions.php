@@ -4,10 +4,6 @@ namespace Streamedup\PhpEnumFunctions;
 
 use BackedEnum;
 
-/**
- * @method static from()
- * @method static tryFrom()
- */
 trait BackedEnumFunctions
 {
     use EnumFunctions;

@@ -7,9 +7,6 @@ use Illuminate\Support\Collection;
 use Illuminate\Support\Enumerable;
 use UnitEnum;
 
-/**
- * @method static cases()
- */
 trait EnumFunctions
 {
     public function is ( mixed $enum ) : bool
